@@ -1,7 +1,6 @@
-# Welcome to streamlit
+# **Dog People**
 
-This is the app you get when you run `streamlit hello`, extracted as its own app.
+This app is designated by Adrian Kense
 
-Edit [Hello.py](./Hello.py) to customize this app to your heart's desire. ❤️
+It will allow dog people to find other dog people.
 
-Check it out on [Streamlit Community Cloud](https://st-hello-app.streamlit.app/)
